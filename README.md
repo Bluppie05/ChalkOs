@@ -11,6 +11,6 @@ This operating system is designed to help teachers teach their students, it is d
 - Start teaching
 
 # Information
-default username: pi
-default password: chalk-os
+- default username: pi
+- default password: chalk-os
 
