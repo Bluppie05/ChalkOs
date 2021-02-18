@@ -1,5 +1,5 @@
 # ChalkOs
-A touch friendly operaing system for raspberry pi designed to serve in a classroom
+A touch friendly linux distribution for raspberry pi designed to serve in a classroom
 
 This operating system is designed to help teachers teach their students, it is designed to be fast, reliable and has all the bells and wistles you need in your classroom. This operating system runs on a raspberry pi so overall cost is minimal.
 
